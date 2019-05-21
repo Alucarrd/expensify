@@ -12,3 +12,7 @@ node_modules/
 chaindata/
 build/
 *.map
+public/bundle.js
+public/bundle.js.map
+public/styles.css
+public/styles.css.map
